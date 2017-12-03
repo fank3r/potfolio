@@ -27,6 +27,9 @@ ul {
 nav ul li{
     display:inline-block;
     background-color: #e8eef7;
+    position: fixed;
+    background-color: #ffffff;
+    
     
     
 }
